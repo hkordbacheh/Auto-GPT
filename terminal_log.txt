@@ -1,0 +1,13 @@
+Script started on Tue Apr 18 13:40:31 2023
+[1m[7m%[27m[1m[0m                                                                                                                                                                             [0m[27m[24m[JUKORDHO@PEARSONML-40TJM6W Auto-GPT % [K[?2004hppoetry shell[?2004l
+Virtual environment already activated: [34m/Users/UKORDHO/Library/Caches/pypoetry/virtualenvs/auto-gpt-mksb4f66-py3.9[39m
+[1m[7m%[27m[1m[0m                                                                                                                                                                             [0m[27m[24m[JUKORDHO@PEARSONML-40TJM6W Auto-GPT % [K[?2004hppython -m autogpt[?2004l
+Traceback (most recent call last):
+  File "/Users/UKORDHO/.pyenv/versions/3.10.0/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/Users/UKORDHO/.pyenv/versions/3.10.0/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/Users/UKORDHO/Documents/my_github/Auto-GPT/autogpt/__main__.py", line 4, in <module>
+    from colorama import Fore
+ModuleNotFoundError: No module named 'colorama'
+[1m[7m%[27m[1m[0m                                                                                                                                                                             [0m[27m[24m[JUKORDHO@PEARSONML-40TJM6W Auto-GPT % [K[?2004h
