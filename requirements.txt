@@ -10,7 +10,7 @@ tiktoken==0.3.3
 gTTS==2.3.1
 docker
 duckduckgo-search
-google-api-python-client #(https://developers.google.com/custom-search/v1/overview)
+google-api-python-client 
 pinecone-client==2.2.1
 redis
 orjson
@@ -19,8 +19,6 @@ selenium
 webdriver-manager
 jsonschema
 tweepy
-
-##Dev
 coverage
 flake8
 numpy
@@ -29,10 +27,6 @@ black
 sourcery
 isort
 gitpython==3.1.31
-
-# Items below this point will not be included in the Docker Image
-
-# Testing dependencies
 pytest
 asynctest
 pytest-asyncio
